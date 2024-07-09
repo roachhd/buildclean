@@ -30,7 +30,7 @@ const config: GatsbyConfig = {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
         description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
-        start_url: `/`,
+        start_url: `/buildclean/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
         // https://css-tricks.com/meta-theme-color-and-trickery/
